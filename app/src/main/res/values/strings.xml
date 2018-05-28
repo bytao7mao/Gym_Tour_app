@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GymTour</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="image_content_description">attraction_image</string>
+
+    <string name="arms1">Exercise for Arms #1</string>
+    <string name="arms1_description">First and foremost let\'s get something straight. We all know that the biceps are the show muscle for your physique. When someone asks you to show your muscles, 9 times out of 10 you flex your biceps.</string>
+    <string name="arms2">Exercise for Arms #2</string>
+    <string name="arms2_description">It is great to have well developed biceps, but make sure you don\'t forget to train the rest of your muscles in the upper and lower arm with the same volume and intensity as you do your biceps.</string>
+    <string name="arms3">Exercise for Arms #3</string>
+    <string name="arms3_description">Many beginners fall into that trap and create terrible imbalances in their arms. Even the great Arnold Schwarzenegger admits he trained his biceps harder and more often than his triceps in the beginning. This built an imbalance that took him years to balance back out.</string>
+
+    <string name="chest1">Exercise for Chest #1</string>
+    <string name="chest1_description">The chest is made up of two muscles that work together to make the chest function. The muscle are the pectoralis major and pectoralis minor.</string>
+    <string name="chest2">Exercise for Chest #2</string>
+    <string name="chest2_description">Basically, the pectoralis minor is located directly underneath the pectoralis major. Overall, these chest muscles start at the clavicle and insert at the sternum and the armpit area (humerous).</string>
+    <string name="chest3">Exercise for Chest #3</string>
+    <string name="chest3_description">The three different functions of the chest muscles are the side arm pitching motion, the ability to bring your arm up and down at your sides, and the classic arm wresting motion. </string>
+
+    <string name="legs1">Exercise for Legs #1</string>
+    <string name="legs1_desc">As you can see from the anatomy info above, there are a lot of muscles that make up the legs.</string>
+    <string name="legs2">Exercise for Legs #2</string>
+    <string name="legs2_desc">If you are looking to put size on your legs, half-ass workouts will not do anything; your legs are accustomed to working all day.</string>
+    <string name="legs3">Exercise for Legs #3</string>
+    <string name="legs3_desc">The legs consist of many muscles so you will need to use a good amount of volume, many angles and different exercises to stimulate all the muscles of the legs.</string>
+
+
+    <string name="arms_tab">Arms Day</string>
+    <string name="chest_tab">Chest Day</string>
+    <string name="legs_tab">Legs Day</string>
+</resources>
