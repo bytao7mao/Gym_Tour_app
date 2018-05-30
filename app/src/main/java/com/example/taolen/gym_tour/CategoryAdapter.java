@@ -17,16 +17,18 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         if (position == 0) return new ChestBenchFragment();
          else if (position == 1) return new LegsDay();
-         else return new ArmsDay();
+         else if (position == 2) return new ArmsDay();
+         else return new ShouldersDay();
     }
 
     @Override
-    public int getCount() {return 3;}
+    public int getCount() {return 4;}
 
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) return mContext.getString(R.string.chest_tab);
          else if (position == 1) return mContext.getString(R.string.legs_tab);
-         else return mContext.getString(R.string.arms_tab);
+         else if (position == 2) return mContext.getString(R.string.arms_tab);
+         else return mContext.getString(R.string.shoulder_tab);
     }
 }
