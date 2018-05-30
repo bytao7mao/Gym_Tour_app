@@ -6,5 +6,6 @@
     <color name="legs_color">#009688</color>
     <color name="chest_color">#536DFE</color>
     <color name="arms_color">#FF5722</color>
+    <color name="shoulders_color">#009688</color>
     <color name="tab_text_color">#757575</color>
 </resources>
