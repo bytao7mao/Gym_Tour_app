@@ -18,9 +18,9 @@ public class ShouldersDay extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.list, container, false);
         final ArrayList<Area> areas = new ArrayList<>();
-        areas.add(new Area(getString(R.string.shoulders1), getString(R.string.shoulders1_description), R.drawable.shoulder1));
-        areas.add(new Area(getString(R.string.shoulders2), getString(R.string.shoulders2_description), R.drawable.shoulder2));
-        areas.add(new Area(getString(R.string.shoulders3), getString(R.string.shoulders3_description), R.drawable.shoulder3));
+        areas.add(new Area(getString(R.string.shoulders1), getString(R.string.shoulders1_desc), R.drawable.shoulder1));
+        areas.add(new Area(getString(R.string.shoulders2), getString(R.string.shoulders2_desc), R.drawable.shoulder2));
+        areas.add(new Area(getString(R.string.shoulders3), getString(R.string.shoulders3_desc), R.drawable.shoulder3));
         AreaAdapter adapter = new AreaAdapter(getActivity(), areas, R.color.shoulders_color);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
