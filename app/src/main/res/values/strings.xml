@@ -26,8 +26,16 @@
     <string name="legs3">Exercise for Legs #3</string>
     <string name="legs3_desc">The legs consist of many muscles so you will need to use a good amount of volume, many angles and different exercises to stimulate all the muscles of the legs.</string>
 
+    <string name="shoulders1">Exercise for Shoulders #1</string>
+    <string name="shoulders1_desc">To build mass, always start your workout with the most demanding exercises—multijoint overhead presses, in the case of the delts—which allow you to push the most weight.</string>
+    <string name="shoulders2">Exercise for Shoulders #2</string>
+    <string name="shoulders2_desc">In this mass workout, a second multijoint move is next, followed by single-joint moves for each of the three delts heads: front, middle, and rear.</string>
+    <string name="shoulders3">Exercise for Shoulders #3</string>
+    <string name="shoulders3_desc">This is the foundation for a solid mass workout. Keeping the total volume fairly high also promotes muscle growth.</string>
 
     <string name="arms_tab">Arms Day</string>
     <string name="chest_tab">Chest Day</string>
     <string name="legs_tab">Legs Day</string>
+    <string name="shoulders_tab">Shoulders Day</string>
+    
 </resources>
