@@ -29,6 +29,6 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         if (position == 0) return mContext.getString(R.string.chest_tab);
          else if (position == 1) return mContext.getString(R.string.legs_tab);
          else if (position == 2) return mContext.getString(R.string.arms_tab);
-         else return mContext.getString(R.string.shoulder_tab);
+         else return mContext.getString(R.string.shoulders_tab);
     }
 }
